@@ -13,4 +13,3 @@ end
 def pop_with_args(array)
   array.pop(["Chihuahua", "Shiba Inu"])
 end
-
