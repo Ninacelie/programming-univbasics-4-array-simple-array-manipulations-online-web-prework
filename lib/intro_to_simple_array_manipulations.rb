@@ -1,2 +1,4 @@
 def using_push(array, string)
-  next_artist = "string"
+  array = "string"
+  using_push.push(array)
+end
